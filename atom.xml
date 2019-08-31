@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jintianyoujuewu.github.io/</id>
     <title>今天有觉悟</title>
-    <updated>2019-08-31T19:35:44.903Z</updated>
+    <updated>2019-08-31T19:41:39.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jintianyoujuewu.github.io/"/>
     <link rel="self" href="https://jintianyoujuewu.github.io//atom.xml"/>
@@ -543,7 +543,13 @@
         <link href="https://jintianyoujuewu.github.io//post/1-ji-qi-xue-xi-xi-tong-de-chong-lei">
         </link>
         <updated>2019-08-31T19:21:56.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://jintianyoujuewu.github.io//post-images/1566961248832.png" alt=""></p>
+        <content type="html"><![CDATA[<p>现有的机器学习系统种类繁多，为便于理解我们根据一下内容将他们进行大的分类：</p>
+<ul>
+<li>是否在人的监督下训练。</li>
+<li>是否可以动态地进行增量学习。</li>
+<li>是否是基于模型的学习。</li>
+</ul>
+<p><img src="https://jintianyoujuewu.github.io//post-images/1567280244591.png" alt=""></p>
 <h1 id="1-是否在人的监督下训练">1 是否在人的监督下训练</h1>
 <p><strong>1.1 监督式学习</strong><br>
 在监督式学习中，提供给算法的包含所需解决方案的训练数据，称为标签或标记。监督式学习中，我们已经知道部分数据的分类标签，利用监督式学习，将无标签部分的数据打上标签。类似于一名老师在监督学习学习的过程。这个老师知道正确的答案，而算法不断迭代来对训练数据做出预测同时不断被老师修正。当算法达到一个可接受程度的表现时学习过程停止。</p>
