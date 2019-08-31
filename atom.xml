@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jintianyoujuewu.github.io/</id>
     <title>今天有觉悟</title>
-    <updated>2019-08-31T19:41:39.298Z</updated>
+    <updated>2019-08-31T19:44:42.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jintianyoujuewu.github.io/"/>
     <link rel="self" href="https://jintianyoujuewu.github.io//atom.xml"/>
@@ -23,7 +23,7 @@
 <h1 id="the-sam-format-specificationsam格式说明">The SAM Format Specification(sam格式说明)</h1>
 <h2 id="1-an-example举例说明">1 An example(举例说明)</h2>
 <p>FCC0YG3ACXX:2:1103:1572:139769#GCTTAATG 99  chr10   60001   0   90M =   60390   479 GAATTCCTTGAGGCCTAAATGCATCGGGGTGCTCTGGTTTTGTTGTTGTTATTTCTGAATGACATTTACTTTGGTGCTCTTTATTTTGCG  CCCFFFFFHHHHHJJJJJJJJIJJJJJJJ?HHGIJJJBFHIJIJIDHIHIEHJJIJJIJJJHHGHHHFFFFFFEDCEEECCDDDDEECDD  XT:A:R  NM:i:0  SM:i:0  AM:i:0  X0:i:2  X1:i:0  XM:i:0  XO:i:0  XG:i:0  MD:Z:90 XA:Z:chr18,+14415,90M,0;    RG:Z:120618_I245_FCC0YG3ACXX_L2_SZAXPI010030-30</p>
-<p><img src="https://upload-images.jianshu.io/upload_images/13295703-1a2f2cbf1a3d08e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="悦书PDF截图20181129141256.png"></p>
+<p><img src="https://jintianyoujuewu.github.io//post-images/1567280677846.webp" alt=""></p>
 <h2 id="2-terminologies-and-concepts术语和概念">2 Terminologies and Concepts（术语和概念）</h2>
 <p>1-based coordinate system</p>
 <ul>
